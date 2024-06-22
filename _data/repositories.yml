@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - IbrahimOued
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - IbrahimOued/mleng-with-python
+  - IbrahimOued/Ensemble-machine-learning
+  - IbrahimOued/python-web-scraping-cookbook
+

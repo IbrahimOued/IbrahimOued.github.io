@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ouedraogo Ibrahim
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24th September 1994
     - name: Languages
-      value: English, German
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Montreal, Montreal, CANADA
+      year: 2027
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MSc
+      institution: Virtual University of Burkina Faso, Ouagadougou, Burkina Faso
+      year: 2023
+      description:
+        - Description 1.
+        - Description 2.
+    - title: BSc
+      institution: University Aube Nouvelle, Ouagadougou, Burkina Faso
+      year: 2019
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +37,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Data Manager
+      institution: National Institute of Public Health(Muraz Center), Bobo Dioulasso, Burkina Faso
+      year: 2021 - 2023
       description:
         - Description 1.
         - Description 2.
@@ -41,25 +47,22 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Mid-Level Software Engineer
+      institution: Kreezus, Ouagadougou, Burkina Faso
+      year: 2020 - 2022
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Junior Core Network Engineer
+      institution: Huawei Technologies, Ouagadougou, Burkina Faso
+      year: 2019 - 2020
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Junior Software Engineer
+      institution: BAFA Technologies, Ouagadougou, Burkina Faso
+      year: 2018 - 2019
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
@@ -71,22 +74,21 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2016
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - 3rd Place, National ICT Competition in Burkina Faso
+    # - year: 2029
+    #   items:
+    #     - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Artificial Intelligence applied to Software Engineering
       items:
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: LLM agents in Software Engineering
       items:
         - Description 1.
         - Description 2.
@@ -94,4 +96,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Chess, Video games, etc.

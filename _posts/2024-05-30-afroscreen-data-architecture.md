@@ -1,10 +1,11 @@
 ---
 layout: post
-title: a post with code
-date: 2015-07-15 15:09:00
-description: an example of a blog post with some code
-tags: formatting code
+title: Comment j'ai conceptualisé un pipeline de données pour le projet Aroscreen
+date: 2024-05-30 14:09:00
+description: Démonstration de d'intégration de données et d'analyse de données
+tags: data-engineering, data-science
 categories: sample-posts
+thumbnail: assets/img/project_centre_muraz.jpeg
 featured: true
 ---
 
