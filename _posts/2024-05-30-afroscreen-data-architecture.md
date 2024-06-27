@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Comment j'ai conceptualisé un pipeline de données pour le projet Aroscreen
+title: How I Conceptualized a Data Pipeline for the Afroscreen Project
 date: 2024-05-30 14:09:00
-description: Démonstration de d'intégration de données et d'analyse de données
+description: Demonstration of data integration and data analysis
 tags: data-engineering, data-science
 categories: sample-posts
 thumbnail: assets/img/project_centre_muraz.jpeg
