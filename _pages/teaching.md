@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: A showcase of my teaching experience, including courses taught, guest lectures, and workshops. This page highlights my contributions to education and mentorship.
 nav: false
 nav_order: 6
 ---
