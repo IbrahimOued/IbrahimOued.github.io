@@ -2,64 +2,80 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ibrahim Ouedraogo
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24th September 1994
     - name: Languages
-      value: English, German
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Montreal, Montreal, Canada
+      year: 2028
       description:
-        - Description 1.
-        - Description 2.
+        - Research in AI and Software Engineering.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master's Degree
+      institution: Virtual University of Burkina Faso, Ouagadougou, Burkina Faso
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Data Mining and Artificial Intelligence.
+    - title: Bachelor's Degree
+      institution: New Dawn University, Ouagadougou, Burkina Faso
+      year: 2018
+      description:
+        - Compiter Science and Software Engineering.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Data Science Manager
+      institution: Centre MURAZ, National Institute of Public Health, Bobo-Dioulasso, Burkina Faso
+      year: 2022 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        # Translate each description in english below
+        - Supervision de la collecte, du stockage et de l'analyse des données pour garantir leur intégrité et leur accessibilité.
+        - Développement de pipelines ETL pour automatiser le traitement des données.
+        - Conception de tableaux de bord analytiques avec PowerBI et Tableau pour le suivi des KPIs.
+        - Coordination d'une équipe multidisciplinaire (statisticiens, gestionnaire de données, agents de collectes de données)
+        - Collaboration avec les différents départements pour optimiser les flux de données et améliorer la prise de décision
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+
+    - title: Data Science Software Engineer
+      institution: KREEZUS SAS, Ouagadougou, Burkina Faso
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Conception d'architectures data scalables pour ingestion multi-sources.
+        - Développement d'APIs et de microservices pour exposer les données.
+        - Intégration d'un moteur de recommandation en environnement distribué.
+        - Participation à la mise en place des premiers référentiels de gouvernance.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Core Network Engineer
+      institution: HUAWEI Techmologies, Ouagadougou, Burkina Faso.
+      year: 2018-2021
       description:
+        - Analyse et reporting de la consommation de ressources sur les équipements HUAWEI.
+        - Planification et déploiement de la solution 4G pour l'opérateur de téléphonie mobile TELECEL FASO.
+        - Surveillance et optimisation des performances réseau pour assurer une connectivité stable et sécurisée.
+        - Analyse des journaux et détection des incidents de sécurité.
+      
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    # - title: Professor of Theoretical Physics
+    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
+    #   year: 1911 - 1917
+    #   description:
+
+    # - title: Associate Professor of Theoretical Physics
+    #   institution: University of Zurich, Zurich, Switzerland
+    #   year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
@@ -71,27 +87,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - HUAWEI seeds for the Future scholarship
+    - year: 2016
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Récompensé par la 3e place Concours GénieTIC du Ministère de l'économie numérique et des postes
