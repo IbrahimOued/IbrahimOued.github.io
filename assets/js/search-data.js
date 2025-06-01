@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A showcase of my projects, highlighting my work and interests. This page includes categorized projects with options for horizontal or vertical display.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "A showcase of my GitHub repositories and contributions. This page includes a list of GitHub users and their repositories, along with any trophies earned.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
