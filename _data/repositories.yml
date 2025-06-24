@@ -5,3 +5,20 @@ repo_description_lines_max: 2
 
 github_repos:
   - IbrahimOued/llamaindex-data-driven-apps
+  - IbrahimOued/Customer-churn-prediction
+  - IbrahimOued/apache-spark-iceberg-recommandation-engine
+  - IbrahimOued/torchtune-finetuning
+  - IbrahimOued/litgpt-finetuning
+  - IbrahimOued/stable-diffusion-w-python
+  - IbrahimOued/llm-multiagents-coders
+  - IbrahimOued/llm-llama3-alignment-and-dpo
+  - IbrahimOued/airflow-dag-pipeline-example
+  - IbrahimOued/Ensemble-machine-learning
+  - IbrahimOued/python-web-scraping-cookbook
+  - IbrahimOued/transformers-for-nlp
+  - IbrahimOued/50-popular-coding-interview-questions
+  - IbrahimOued/Graphic-Go-Algorithms-Implementation
+  - IbrahimOued/NLP-with-Pytorch-1.x
+  - IbrahimOued/Neural-networks-with-keras
+  - IbrahimOued/Python-feature-engineering-cookbook
+
