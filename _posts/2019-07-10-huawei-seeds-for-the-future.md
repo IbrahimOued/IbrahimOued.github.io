@@ -122,7 +122,7 @@ Our trip concluded with a memorable ceremony night where we received our certifi
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/huawei_trip/certificates.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/huawei_trip/schenzhen/schenzhen_park_7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
