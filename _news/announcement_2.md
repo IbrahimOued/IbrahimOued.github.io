@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-I am are excited to share that I have been selected for the Huawei Seeds for the Future program 2019! This incredible opportunity will take us to Beijing and Shenzhen, where we will visit Huawei University. We look forward to gaining invaluable insights and experiences during this journey. Thank you for your support, and we can't wait to share our experiences with you!
+I am excited to share that I have been selected for the Huawei Seeds for the Future program 2019! This incredible opportunity will take us to Beijing and Shenzhen, where we will visit Huawei University. We look forward to gaining invaluable insights and experiences during this journey. Thank you for your support, and we can't wait to share our experiences with you!
 
 <!-- ---
 layout: post

@@ -7,14 +7,13 @@ first_name: Ibrahim
 middle_name: 
 last_name: Ouedraogo
 contact_note: >
-  The best way to reach me is via email at ibra.oued@outlook.com. I'm also active on LinkedIn for professional conversations, collaborations, or speaking opportunities. Whether it's about AI strategy, engineering challenges, or data leadership—I'd love to hear from you.
+  The best way to reach me is via email at brahim.oued@gmail.com. I'm also active on LinkedIn for professional conversations, collaborations, or speaking opportunities. Whether it's about AI strategy, engineering challenges, or data leadership—I'd love to hear from you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: # jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+#  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: Artificial-Intelligence, Deep-Learning, Researcher, Large-languages-models # jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

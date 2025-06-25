@@ -2,10 +2,10 @@
 layout: book-review
 title: The Chief AI Officer's Handbook Master AI leadership with strategies to innovate, overcome challenges, and drive business growth
 author: Jarrod Anderson
-cover: assets/img/book_covers/the_chief_AI_officer_handbook.jpeg
+cover: assets/img/book_covers/the_chief_AI_officer_handbook.png
 olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: classics crime historical-fiction mystery novels thriller
+categories: technology computer-science artificial-intelligence machine-learning
 tags: AI engineering management
 buy_link: https://www.amazon.com/Chief-Officers-Handbook-leadership-strategies/dp/1836200854
 started: 2025-03-23
