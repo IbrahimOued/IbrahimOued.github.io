@@ -55,16 +55,66 @@ ninja.data = [{
             window.location.href = "/blog/2019/huawei-seeds-for-the-future/";
           
         },
-      },{id: "books-the-chief-ai-officer-39-s-handbook-master-ai-leadership-with-strategies-to-innovate-overcome-challenges-and-drive-business-growth",
+      },{id: "books-ai-engineering-building-applications-with-foundation-models",
+          title: 'AI Engineering Building Applications With Foundation Models',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ai_engineering/";
+            },},{id: "books-ultimate-big-data-analytics-with-apache-hadoop-master-big-data-analytics-with-apache-hadoop-using-apache-spark-hive-python",
+          title: 'Ultimate Big Data Analytics with Apache Hadoop Master Big Data Analytics with Apache...',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/big_data_analytics_with_apache_hadoop/";
+            },},{id: "books-building-llm-powered-applications",
+          title: 'Building LLM Powered Applications',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/building_llm_powered_applications/";
+            },},{id: "books-machine-learning-engineering-with-python",
+          title: 'Machine Learning Engineering with Python',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/de_w_python/";
+            },},{id: "books-ensemble-machine-learning-cookbook",
+          title: 'Ensemble Machine Learning Cookbook',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ensemble_ml/";
+            },},{id: "books-fastapi-cookbook-develop-high-performance-apis-and-web-applications-with-python",
+          title: 'FastAPI Cookbook Develop high-performance APIs and web applications with Python',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/fastapi_cookbook/";
+            },},{id: "books-machine-learning-engineering-with-python",
+          title: 'Machine Learning Engineering with Python',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ml_eng_with_python/";
+            },},{id: "books-practical-deep-learning-at-scale-with-mlflow",
+          title: 'Practical Deep Learning at Scale with MLflow',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/practical_dl_at_scale_w_mlflow/";
+            },},{id: "books-rag-driven-generative-ai-build-custom-retrieval-augmented-generation-pipelines-with-llamaindex-deep-lake-and-pinecone",
+          title: 'RAG-Driven Generative AI Build Custom Retrieval Augmented Generation Pipelines With LlamaIndex, Deep Lake,...',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/rag_driven_gen_ai/";
+            },},{id: "books-the-chief-ai-officer-39-s-handbook-master-ai-leadership-with-strategies-to-innovate-overcome-challenges-and-drive-business-growth",
           title: 'The Chief AI Officer&amp;#39;s Handbook Master AI leadership with strategies to innovate, overcome...',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_chief_AI_officer_handbook/";
+            },},{id: "books-transformers-for-natural-language-processing",
+          title: 'Transformers for Natural Language Processing',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/transformers_for_nlp/";
             },},{id: "news-i-am-thrilled-to-announce-that-our-team-has-won-the-3rd-prize-in-the-prestigious-ict-competition-in-burkina-faso-genietic-2016-edition-this-achievement-is-a-testament-to-our-hard-work-and-dedication-i-would-like-to-thank-everyone-who-supported-us-throughout-this-journey-stay-tuned-for-more-exciting-updates",
           title: 'I am thrilled to announce that our team has won the 3rd prize...',
           description: "",
-          section: "News",},{id: "news-i-am-are-excited-to-share-that-i-have-been-selected-for-the-huawei-seeds-for-the-future-program-2019-this-incredible-opportunity-will-take-us-to-beijing-and-shenzhen-where-we-will-visit-huawei-university-we-look-forward-to-gaining-invaluable-insights-and-experiences-during-this-journey-thank-you-for-your-support-and-we-can-t-wait-to-share-our-experiences-with-you",
-          title: 'I am are excited to share that I have been selected for the...',
+          section: "News",},{id: "news-i-am-excited-to-share-that-i-have-been-selected-for-the-huawei-seeds-for-the-future-program-2019-this-incredible-opportunity-will-take-us-to-beijing-and-shenzhen-where-we-will-visit-huawei-university-we-look-forward-to-gaining-invaluable-insights-and-experiences-during-this-journey-thank-you-for-your-support-and-we-can-t-wait-to-share-our-experiences-with-you",
+          title: 'I am excited to share that I have been selected for the Huawei...',
           description: "",
           section: "News",},{id: "news-completion-of-master-s-degree-thesis-in-data-mining-and-artificial-intelligence",
           title: 'Completion of Master’s Degree Thesis in Data Mining and Artificial Intelligence',
@@ -126,7 +176,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%69%62%72%61.%6F%75%65%64@%6F%75%74%6C%6F%6F%6B.%63%6F%6D", "_blank");
+          window.open("mailto:%62%72%61%68%69%6D.%6F%75%65%64@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
