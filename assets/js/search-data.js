@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-an-unforgettable-journey-to-china-with-huawei",
+            },{id: "post-beginning-my-phd-journey-at-université-de-montréal",
+        
+          title: "Beginning My PhD Journey at Université de Montréal 🇨🇦",
+        
+        description: "Starting a new academic chapter under the supervision of Prof. Houari Sahraoui and Prof. Michalis Famelis at GEODES, DIRO – Université de Montréal.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/starting-a-phd-position-at-udem/";
+          
+        },
+      },{id: "post-an-unforgettable-journey-to-china-with-huawei",
         
           title: "An Unforgettable Journey to China with Huawei",
         
@@ -116,7 +127,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-excited-to-share-that-i-have-been-selected-for-the-huawei-seeds-for-the-future-program-2019-this-incredible-opportunity-will-take-us-to-beijing-and-shenzhen-where-we-will-visit-huawei-university-we-look-forward-to-gaining-invaluable-insights-and-experiences-during-this-journey-thank-you-for-your-support-and-we-can-t-wait-to-share-our-experiences-with-you",
           title: 'I am excited to share that I have been selected for the Huawei...',
           description: "",
-          section: "News",},{id: "news-completion-of-master-s-degree-thesis-in-data-mining-and-artificial-intelligence",
+          section: "News",},{id: "news-joining-centre-muraz-as-data-science-manager-for-the-afroscreen-project",
+          title: 'Joining Centre MURAZ as Data Science Manager for the Afroscreen Project',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-completion-of-master-s-degree-thesis-in-data-mining-and-artificial-intelligence",
           title: 'Completion of Master’s Degree Thesis in Data Mining and Artificial Intelligence',
           description: "",
           section: "News",handler: () => {
@@ -125,7 +141,7 @@ ninja.data = [{
           title: 'Starting a PhD Program at University of Montreal',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
+              window.location.href = "/news/announcement_5/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
