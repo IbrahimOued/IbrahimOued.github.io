@@ -5,7 +5,7 @@ date: 2019-07-10 14:00:00
 description: Exploring Chinese culture and technology with Huawei
 tags: travel, culture, technology
 categories: experiences
-thumbnail: assets/img/huawei_trip/flight.jpg
+thumbnail: assets/img/huawei_trip/schenzhen/schenzhen_park_2.jpg
 images:
   lightbox2: true
   photoswipe: true
