@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Head of AI and Data Analytics
+subtitle: Lead Data/AI enginer
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Book a meeting: <a href="https://calendly.com/ibrahim-oued/30min" target="_blank">Calendly</a></p>
+    <p>Wanna have a discussion with? <a href="https://calendly.com/ibrahim-oued/30min" target="_blank">Available here</a></p>
     <p>CITADEL, Virtual University of Burkina Faso</p>
     <p>Ouagadougou, Burkina Faso</p>
 
@@ -32,6 +32,8 @@ I'm a Software Engineer and Data Scientist with a deep passion for building inte
 Over the years, I've led and contributed to several projects involving large-scale data platforms, recommender systems, and LLM-based architectures, often combining cutting-edge open-source tools with robust engineering practices.
 
 Beyond the technical, I enjoy mentoring, teaching, and collaborating with interdisciplinary teams to push the boundaries of what's possible with AI and data. I'm always looking for meaningful collaborations, challenging problems, and opportunities to turn innovative ideas into impactful solutions.
+
+You can follow me on [GitHub](https://www.github.com/IbrahimOued) and [LinkedIn](https://www.linkedin.com/in/ibrahimouedraogo/) to see my latest projects and contributions. Feel free to reach out if you're interested in discussing AI, data engineering, or potential collaborations!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.png` and put it in the `img/` folder.
 
