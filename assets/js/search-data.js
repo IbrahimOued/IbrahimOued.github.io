@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-bookshelf",
+          title: "bookshelf",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -66,7 +73,12 @@ ninja.data = [{
             window.location.href = "/blog/2019/huawei-seeds-for-the-future/";
           
         },
-      },{id: "books-ai-engineering-building-applications-with-foundation-models",
+      },{id: "books-ai-and-ml-for-coders-in-pytorch",
+          title: 'AI and ML for Coders in PyTorch',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ai_and_ml_for_coders/";
+            },},{id: "books-ai-engineering-building-applications-with-foundation-models",
           title: 'AI Engineering Building Applications With Foundation Models',
           description: "",
           section: "Books",handler: () => {
@@ -96,6 +108,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/fastapi_cookbook/";
+            },},{id: "books-microservices-with-go-2nd-edition",
+          title: 'Microservices with Go 2nd Edition',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/microservices_w_go/";
             },},{id: "books-machine-learning-engineering-with-python",
           title: 'Machine Learning Engineering with Python',
           description: "",
