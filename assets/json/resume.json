@@ -6,7 +6,7 @@
     "email": "brahim.oued@gmail.com",
     "phone": "(+226)61006261",
     "url": "https://ibrahimoued.github.io",
-    "summary": "I am a highly skilled and experienced professional with a strong background in artificial intelligence, data analytics, and software development. I have a proven track record of leading teams to deliver innovative solutions that drive business success.",
+    "summary": "I am a highly skilled and experienced professional with a strong background in machine learning, artificial intelligence, data analytics, and software development. I have a proven track record of leading teams to deliver innovative solutions that drive business success.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -138,6 +138,13 @@
       "issuer": "Hugging Face",
       "icon": "fa-solid fa-certificate",
       "url": "https://huggingface.co/certificates/machine-learning"
+    },
+    {
+      "name": "Astronomer Certification for Apache Airflow 3 Fundamentals",
+      "date": "2025-07-24",
+      "issuer": "Astronomer",
+      "icon": "fa-solid fa-certificate",
+      "url": "https://academy.astronomer.io/certification-exam-apache-airflow-3-fundamentals"
     }
   ],
   "publications": [],

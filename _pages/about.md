@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lead Data/AI enginer
+subtitle: Senior ML/AI engineer
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Wanna have a discussion with? <a href="https://calendly.com/ibrahim-oued/30min" target="_blank">Available here</a></p>
+    <p>Want to have a discussion? <a href="https://calendly.com/ibrahim-oued/30min" target="_blank">Book a meeting here</a></p>
     <p>CITADEL, Virtual University of Burkina Faso</p>
     <p>Ouagadougou, Burkina Faso</p>
 
@@ -27,9 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Software Engineer and Data Scientist with a deep passion for building intelligent systems that solve real-world problems. My expertise spans Artificial Intelligence, Natural Language Processing (NLP), Data Engineering, and Distributed Systems. I specialize in designing and deploying end-to-end machine learning pipelines and AI-driven solutions—from raw data ingestion to model deployment in production environments.
+I'm a Senior Machine Learning/AI Engineer with a deep passion for building intelligent systems that solve real-world problems. My expertise spans Machine Learning, Artificial Intelligence, Software Engineering, Natural Language Processing (NLP), Data Engineering, and Distributed Systems. I specialize in designing and deploying end-to-end machine learning pipelines and AI-driven solutions—from raw data ingestion to model deployment in production environments.
 
-Over the years, I've led and contributed to several projects involving large-scale data platforms, recommender systems, and LLM-based architectures, often combining cutting-edge open-source tools with robust engineering practices.
+Over the years, I've led and contributed to several projects involving large-scale data platforms, recommender systems, and LLM-based architectures, often combining cutting-edge open-source tools with robust engineering practices. Lately I've been focusing on Large Language Models (LLMs) and AI applications, exploring how they can transform industries and enhance user experiences.
+
+I hold a Master's degree in Data Mining and Artificial Intelligence and have worked with various organizations to implement AI solutions that drive efficiency and innovation. My work is characterized by a strong emphasis on scalability, reliability, and ethical AI practices, ensuring that the systems I build are not only effective but also responsible and transparent.
 
 Beyond the technical, I enjoy mentoring, teaching, and collaborating with interdisciplinary teams to push the boundaries of what's possible with AI and data. I'm always looking for meaningful collaborations, challenging problems, and opportunities to turn innovative ideas into impactful solutions.
 
