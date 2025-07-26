@@ -219,6 +219,20 @@ ninja.data = [{
           window.open("https://github.com/IbrahimOued", "_blank");
         },
       },{
+        id: 'social-gitlab',
+        title: 'GitLab',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://gitlab.com/IbrahimOued", "_blank");
+        },
+      },{
+        id: 'social-kaggle',
+        title: 'Kaggle',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.kaggle.com/ibrahimouedraogo", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
