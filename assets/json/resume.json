@@ -39,6 +39,19 @@
   },
   "work": [
     {
+      "name": "Uduma",
+      "position": "Senior Data Architect & Integration Lead",
+      "url": "https://uduma.net",
+      "startDate": "2025-09-01",
+      "endDate": "Present",
+      "summary": "Designing and implementing data architectures that support our mission of providing reliable water access in West Africa.",
+      "highlights": [
+        "Leading the integration of AI solutions into data workflows.",
+        "Collaborating with cross-functional teams to align data strategies with business goals.",
+        "Establishing best practices for data governance and management."
+      ]
+    },
+    {
       "name": "Centre MURAZ (National Institude of Public Health)",
       "position": "Data Science Manager",
       "url": "https://centre-muraz.bf",

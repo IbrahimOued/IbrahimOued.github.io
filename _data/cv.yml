@@ -30,6 +30,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Senior Data Architect & Integration Lead
+      institution: Uduma
+      year: 2025 - Present
+      description:
+        - Conception et mise en œuvre d'architectures de données évolutives pour des solutions basées sur l'IA.
+        - Intégration de modèles d'apprentissage automatique dans des applications de production.
+        - Collaboration avec les équipes de développement pour garantir l'alignement des solutions d'IA avec les besoins métier.
+        - Mise en place de bonnes pratiques de gouvernance des données.
+        - Formation et sensibilisation des équipes aux enjeux de l'IA et de la gestion des données.
+        - Développement de documentation et de ressources pour soutenir l'adoption des solutions d'IA.
+        - Mise en place de processus de retour d'expérience pour améliorer continuellement les solutions d'IA.
+        - Participation à des conférences et des ateliers pour partager les meilleures pratiques en matière d'IA et de gestion des données.
+        
     - title: Data Science Manager
       institution: Centre MURAZ, National Institute of Public Health, Bobo-Dioulasso, Burkina Faso
       year: 2022 - 2025

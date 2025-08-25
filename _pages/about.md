@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior ML/AI engineer
+subtitle: Senior ML/AI engineer | Senior Data Architect & Integration Lead at <a href="https://uduma.net">Uduma</a>
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Want to have a discussion? <a href="https://calendly.com/ibrahim-oued/30min" target="_blank">Book a meeting here</a></p>
-    <p>CITADEL, Virtual University of Burkina Faso</p>
+    <p>Uduma</p>
     <p>Ouagadougou, Burkina Faso</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -31,7 +31,7 @@ I'm a Senior Machine Learning/AI Engineer with a deep passion for building intel
 
 Over the years, I've led and contributed to several projects involving large-scale data platforms, recommender systems, and LLM-based architectures, often combining cutting-edge open-source tools with robust engineering practices. Lately I've been focusing on Large Language Models (LLMs) and AI applications, exploring how they can transform industries and enhance user experiences.
 
-I hold a Master's degree in Data Mining and Artificial Intelligence and have worked with various organizations to implement AI solutions that drive efficiency and innovation. My work is characterized by a strong emphasis on scalability, reliability, and ethical AI practices, ensuring that the systems I build are not only effective but also responsible and transparent.
+I am currently a Senior Data Architect & Integration Lead at Uduma, where I design and implement data architectures that support our mission of providing reliable water access in West Africa.
 
 Beyond the technical, I enjoy mentoring, teaching, and collaborating with interdisciplinary teams to push the boundaries of what's possible with AI and data. I'm always looking for meaningful collaborations, challenging problems, and opportunities to turn innovative ideas into impactful solutions.
 
