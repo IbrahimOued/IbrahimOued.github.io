@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior ML/AI engineer | Senior Data Architect & Integration Lead at <a href="https://uduma.net">Uduma</a>
+subtitle: Senior Data Architect & Integration Lead at <a href="https://uduma.net">Uduma</a>
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Want to have a discussion? <a href="https://calendly.com/ibrahim-oued/30min" target="_blank">Book a meeting here</a></p>
-    <p>Uduma</p>
+    <p>Vergnet Burkina</p>
     <p>Ouagadougou, Burkina Faso</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,15 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Senior Machine Learning/AI Engineer with a deep passion for building intelligent systems that solve real-world problems. My expertise spans Machine Learning, Artificial Intelligence, Software Engineering, Natural Language Processing (NLP), Data Engineering, and Distributed Systems. I specialize in designing and deploying end-to-end machine learning pipelines and AI-driven solutions—from raw data ingestion to model deployment in production environments.
+I'm a Machine Learning/AI Engineer with a deep passion for building intelligent systems that solve real-world problems. My expertise spans **Machine Learning, Artificial Intelligence, Software Engineering, Natural Language Processing (NLP), Data Engineering, and Distributed Systems**. I specialize in designing and deploying **end-to-end machine learning pipelines and AI-driven solutions** from raw data ingestion to model deployment in production environments.
 
-Over the years, I've led and contributed to several projects involving large-scale data platforms, recommender systems, and LLM-based architectures, often combining cutting-edge open-source tools with robust engineering practices. Lately I've been focusing on Large Language Models (LLMs) and AI applications, exploring how they can transform industries and enhance user experiences.
+Over the years, I've led and contributed to several projects involving **large-scale data platforms, recommender systems, and LLM-based architectures**, often combining cutting-edge open-source tools with robust engineering practices. Lately I've been focusing on **Large Language Models (LLMs), Agentic Systems, and AI applications**, exploring how they can transform industries and enhance user experiences.
 
-I am currently a Senior Data Architect & Integration Lead at Uduma, where I design and implement data architectures that support our mission of providing reliable water access in West Africa.
+I am currently working as a ***Senior Data Architect & Integration Lead*** at <a href="https://uduma.net">Uduma</a>, which is a subsidiary of **Odial Solutions Group**, where I design and implement data architectures that support our mission of providing reliable water access in West Africa.
 
 Beyond the technical, I enjoy mentoring, teaching, and collaborating with interdisciplinary teams to push the boundaries of what's possible with AI and data. I'm always looking for meaningful collaborations, challenging problems, and opportunities to turn innovative ideas into impactful solutions.
 
-You can follow me on [GitHub](https://www.github.com/IbrahimOued) and [LinkedIn](https://www.linkedin.com/in/ibrahimouedraogo/) to see my latest projects and contributions. Feel free to reach out if you're interested in discussing AI, data engineering, or potential collaborations!
+You can follow me on [LinkedIn](https://www.linkedin.com/in/ibrahimouedraogo/) and [Github](https://www.github.com/IbrahimOued) to see my latest projects and contributions. Feel free to reach out if you're interested in discussing AI, data engineering, or potential collaborations!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.png` and put it in the `img/` folder.
 

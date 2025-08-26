@@ -14,9 +14,9 @@ profiles:
     content: about_ibrahim.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Want to have a discussion? <a href="https://calendly.com/ibrahim-oued/30min" target="_blank">Book a meeting here</a></p>
+      <p>Vergnet Burkina</p>
+      <p>Ouagadougou, Burkina Faso</p>
   - align: left
     image: prof_pic.png
     content: about_ibrahim.md
