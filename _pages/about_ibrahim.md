@@ -4,11 +4,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I'm a Machine Learning/AI Engineer with a deep passion for building intelligent systems that solve real-world problems. My expertise spans **Machine Learning, Artificial Intelligence, Software Engineering, Natural Language Processing (NLP), Data Engineering, and Distributed Systems**. I specialize in designing and deploying **end-to-end machine learning pipelines and AI-driven solutions** from raw data ingestion to model deployment in production environments.
+I'm a **Machine Learning/AI Engineer** with a deep passion for building intelligent systems that solve real-world problems. My expertise spans **Machine Learning, Artificial Intelligence, Software Engineering, Natural Language Processing (NLP), Data Engineering, and Distributed Systems**. I specialize in designing and deploying **end-to-end machine learning pipelines and AI-driven solutions** from raw data ingestion to model deployment in production environments.
 
 I was previously pursuing a PhD in Cloud-Based Distributed Systems, where I was exploring how intelligent agents and scalable architectures can transform software engineering and data-intensive applications. My research interests lie at the intersection of multi-agent systems, automation, and cloud-native design.
 
-Now I am working as a ***Senior Data Architect & Integration Lead*** at <a href="https://uduma.net">Uduma</a>, a subsidiary of **Odial Solutions Group**, where I design and implement data architectures that support our mission of providing reliable water access in West Africa.
+Now I am working as a ***Senior Technical Manager - Digital systems, data & AI*** at <a href="https://www.vergnet-hydro.com/">Vergnet Hydro</a>, a subsidiary of **Odial Solutions Group**, where I design and implement data architectures that support our mission of providing reliable water access in West Africa.
 
 Over the years, I've led and contributed to several projects involving large-scale data platforms, recommender systems, and LLM-based architectures, often combining cutting-edge open-source tools with robust engineering practices.
 

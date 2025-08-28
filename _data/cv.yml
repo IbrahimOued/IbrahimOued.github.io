@@ -30,8 +30,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Senior Data Architect & Integration Lead
-      institution: Uduma
+    - title: Senior Technical Manager - Digital systems, data & AI
+      institution: Vergnet Hydro
       year: 2025 - Present
       description:
         - Conception et mise en œuvre d'architectures de données évolutives pour des solutions basées sur l'IA.
@@ -43,7 +43,7 @@
         - Mise en place de processus de retour d'expérience pour améliorer continuellement les solutions d'IA.
         - Participation à des conférences et des ateliers pour partager les meilleures pratiques en matière d'IA et de gestion des données.
         
-    - title: Data Science Manager
+    - title: Data Manager
       institution: Centre MURAZ, National Institute of Public Health, Bobo-Dioulasso, Burkina Faso
       year: 2022 - 2025
       description:
@@ -57,7 +57,7 @@
         #     - Sub-description 1.
         #     - Sub-description 2.
 
-    - title: Data Science Software Engineer
+    - title: Software Engineer - Machine Learning
       institution: KREEZUS SAS, Ouagadougou, Burkina Faso
       year: 2021 - 2022
       description:
