@@ -159,6 +159,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
+            },},{id: "news-starting-a-new-position-as-senior-technical-manager-digital-systems-data-amp-ai-at-vergnet-hydro",
+          title: 'Starting a new position as Senior Technical Manager - Digital systems, data &amp;amp;...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -233,6 +238,13 @@ ninja.data = [{
           window.open("https://www.kaggle.com/ibrahimouedraogo", "_blank");
         },
       },{
+        id: 'social-leetcode',
+        title: 'LeetCode',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://leetcode.com/u/k1LLm0ngR/", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -240,11 +252,25 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/ibrahimouedraogo", "_blank");
         },
       },{
+        id: 'social-medium',
+        title: 'Medium',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://medium.com/@ibrahim.oued", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/ibrah_odg", "_blank");
         },
       },{
       id: 'light-theme',
