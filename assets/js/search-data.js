@@ -159,7 +159,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "news-starting-a-new-position-as-senior-technical-manager-digital-systems-data-amp-ai-at-vergnet-hydro",
+            },},{id: "news-starting-a-new-position-as-senior-technical-manager-digital-systems-data-amp-ai-at-uduma",
           title: 'Starting a new position as Senior Technical Manager - Digital systems, data &amp;amp;...',
           description: "",
           section: "News",handler: () => {
