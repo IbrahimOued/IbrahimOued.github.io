@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Want to have a discussion? <a href="https://calendly.com/ibrahim-oued/30min" target="_blank">Book a meeting here</a></p>
-      <p>Vergnet Burkina</p>
+      <p>Uduma, Vergnet Burkina</p>
       <p>Ouagadougou, Burkina Faso</p>
   - align: left
     image: prof_pic.png

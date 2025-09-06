@@ -8,7 +8,7 @@ I'm a **Machine Learning/AI Engineer** with a deep passion for building intellig
 
 I was previously pursuing a PhD in Cloud-Based Distributed Systems, where I was exploring how intelligent agents and scalable architectures can transform software engineering and data-intensive applications. My research interests lie at the intersection of multi-agent systems, automation, and cloud-native design.
 
-Now I am working as a ***Senior Technical Manager - Digital systems, data & AI*** at <a href="https://www.vergnet-hydro.com/">Vergnet Hydro</a>, a subsidiary of **Odial Solutions Group**, where I design and implement data architectures that support our mission of providing reliable water access in West Africa.
+Now I am working as a ***Senior Technical Manager - Digital systems, data & AI*** at <a href="https://www.uduma.net/">Uduma</a>, a subsidiary of **Odial Solutions Group**, where I design and implement data architectures that support our mission of providing reliable water access in West Africa.
 
 Over the years, I've led and contributed to several projects involving large-scale data platforms, recommender systems, and LLM-based architectures, often combining cutting-edge open-source tools with robust engineering practices.
 
